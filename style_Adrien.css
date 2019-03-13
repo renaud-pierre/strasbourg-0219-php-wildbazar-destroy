@@ -1,0 +1,161 @@
+.navbar {
+  font-size: 20px;
+}
+.navbar .navbar-brand {
+  font-size: 22px;
+  font-weight: 200;
+  padding-left: 1rem;
+}
+
+.navbar-nav {
+  font-size: 20px;
+  font-weight: 100;
+  padding-right: 1rem;
+}
+
+.titre-page {
+  font-size: 4vw;
+  font-weight: 200;
+}
+
+.text-titre {
+  font-size: 2vw;
+  font-weight: 100;
+}
+
+.pied-list {
+  font-size: 15px;
+  font-weight: 100;
+  margin: 0.5em 0;
+  line-height: 0.8;
+  padding-right: 1rem;
+  padding-top: 1rem;
+}
+
+.logo-bas {
+  padding: 0.5rem;
+}
+
+.titre-bas {
+  font-size: 27px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+}
+
+.text-bas {
+  font-size: 15px;
+  font-weight: 100;
+  line-height: 1.3;
+}
+
+.adresse {
+  padding: 0.8rem;
+  line-height: 0.8;
+}
+
+.text-form {
+  font-size: 1.3vw;
+  font-weight: 100;
+}
+
+.titre-form {
+  font-size: 3vw;
+  font-weight: 200;
+}
+
+.btn-submit {
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.formulaire {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
+}
+
+.topselling {
+  text-align: center;
+}
+.topselling .titre-form {
+  font-size: 2.5vw;
+  font-weight: 200;
+}
+.topselling .text-form {
+  font-size: 1.1vw;
+  font-weight: 100;
+}
+
+.titre {
+  text-align: center;
+  font-size: 2.5vw;
+  font-weight: 200;
+}
+
+.texte {
+  font-size: 1.2vw;
+  font-weight: 100;
+}
+
+.arriereplan {
+  background: rgba(255, 196, 0, 0.479);
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.cartes {
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  font-size: 1.05vw;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  border-color: #b3b3b3;
+}
+
+.price {
+  font-size: 1.1vw;
+  font-weight: 300;
+}
+
+.modalprice {
+  font-size: 2vw;
+  font-weight: 300;
+}
+
+.modacaractitre {
+  font-size: 1.5vw;
+  font-weight: 300;
+}
+
+.modacaractexte {
+  font-size: 1.2vw;
+  font-weight: 100;
+}
+
+.addbutton {
+  font-size: 17px;
+  font-weight: 100;
+  position: absolute;
+  left: 0;
+  left: 43.3%;
+  top: 0;
+  top: 35%;
+}
+
+.banniere {
+  background: url("./images_Adrien/Banner.png") no-repeat;
+  height: 300px;
+}
+
+.am-carte-titre {
+  font-size: 1.5vw;
+  font-weight: 200;
+}
+
+/*# sourceMappingURL=style_Adrien.css.map */
